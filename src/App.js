@@ -1,8 +1,8 @@
-import Contianer from './Components/Container'
+import Root from './Components/Root'
 
 function App() {
     return (
-        <Contianer />
+        <Root />
     )
 }
 export default App;
